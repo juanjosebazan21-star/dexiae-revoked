@@ -2,6 +2,6 @@
   "version": "1.0",
   "actualizado": "2026-04-18",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada. Consultada automaticamente por la aplicacion para validar el estado de las licencias activas. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
-  "revocados": [],
+  "revocados": []
   "motivos": {}
 }
