@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-09-11",
+  "actualizado": "2026-09-12",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.5.17",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.5.17/DEXIAE_Setup_V2.5.17.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.5.17",
-  "resumen": "El aviso de version nueva ahora se nota: la pastilla de la barra se vuelve solida y aparece tambien con la barra achicada.",
-  "corrige_resultados": false
+  "ultima_version": "2.5.18",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.5.18/DEXIAE_Setup_V2.5.18.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.5.18",
+  "resumen": "Ahora la cuenta la decide a quien se le pago, no como se pago: un pago hecho con tarjeta de debito ya no entra como compra. Se suman FAECYS, OSECAC e INACAP, y el orden de los tipos de movimiento se puede cambiar desde la pantalla. Ademas, el ID de equipo dejo de cambiar solo cuando Windows saca wmic.",
+  "corrige_resultados": true
 }
