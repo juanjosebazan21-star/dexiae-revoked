@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-09-12",
+  "actualizado": "2026-09-16",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.5.18",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.5.18/DEXIAE_Setup_V2.5.18.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.5.18",
-  "resumen": "Ahora la cuenta la decide a quien se le pago, no como se pago: un pago hecho con tarjeta de debito ya no entra como compra. Se suman FAECYS, OSECAC e INACAP, y el orden de los tipos de movimiento se puede cambiar desde la pantalla. Ademas, el ID de equipo dejo de cambiar solo cuando Windows saca wmic.",
+  "ultima_version": "2.7.0",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.7.0/DEXIAE_Setup_V2.7.0.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.7.0",
+  "resumen": "Controles entre documentos del mismo lote: que un dato diga lo mismo en varios, que una suma cierre contra un total, que una fecha vaya antes que otra y que avise cuando falta una pieza. El peritaje ahora muestra el nombre del firmante aunque la firma no lo traiga aparte. Los PDF escaneados se pueden leer con OCR antes de clasificar. Las notas del lote son una lista: se agregan y se borran de a una.",
   "corrige_resultados": true
 }
