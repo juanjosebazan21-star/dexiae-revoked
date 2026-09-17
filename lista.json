@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-09-16",
+  "actualizado": "2026-09-17",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.7.0",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.7.0/DEXIAE_Setup_V2.7.0.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.7.0",
-  "resumen": "Controles entre documentos del mismo lote: que un dato diga lo mismo en varios, que una suma cierre contra un total, que una fecha vaya antes que otra y que avise cuando falta una pieza. El peritaje ahora muestra el nombre del firmante aunque la firma no lo traiga aparte. Los PDF escaneados se pueden leer con OCR antes de clasificar. Las notas del lote son una lista: se agregan y se borran de a una.",
+  "ultima_version": "2.7.1",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.7.1/DEXIAE_Setup_V2.7.1.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.7.1",
+  "resumen": "Comprimir PDF tiene ahora tres niveles que hacen cosas distintas, y uno que baja el peso hasta el tamano que pidas para subirlo a una plataforma; despues de recomprimir controla pagina por pagina que el documento se siga viendo igual. PDF a Word conserva negritas, tamanos, alineacion y el membrete, une los renglones en parrafos editables y lee documentos a dos columnas y hojas rotadas. Una plantilla que no puede reconocer documentos ya no se lleva los de otra: el Excel dice con que anclas decidio y cuales faltaron. Y una columna de tabla se puede marcar «puede faltar», para que el mismo formulario sirva aunque le saquen una columna.",
   "corrige_resultados": true
 }
