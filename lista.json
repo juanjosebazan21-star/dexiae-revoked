@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-09-23",
+  "actualizado": "2026-09-27",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.7.5",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.7.5/DEXIAE_Actualizacion_V2.7.5.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.7.5",
-  "resumen": "La pantalla de Ejecución está rediseñada: configuración y bitácora en dos mitades iguales, y una bitácora con una fila por documento y su estado. Detener el Centinela ya no parece colgado: dice cada paso del cierre. Las tablas largas (resúmenes de broker, listados de muchas páginas) se pueden leer enteras aunque el encabezado no se repita, sin los subtotales y con los números como números; y dos plantillas pueden leer el mismo documento, cada una en su hoja. En el conversor, la revisión suma los saldos por día, un asiento por día con el banco neto, y cambiar, quitar o repartir de a un movimiento. En Validación, una hoja con un renglón por hallazgo, y el «Mensaje» propio vale en todos los tipos de regla. Comprimir PDF llega a pesos que antes no alcanzaba.",
-  "corrige_resultados": true
+  "ultima_version": "2.7.6",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.7.6/DEXIAE_Actualizacion_V2.7.6.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.7.6",
+  "resumen": "El conversor de extractos lee los resúmenes de Santander que traen la Caja de Ahorro y la Cuenta Corriente en la misma tabla, con una columna «Cuenta» en el Excel; la cuenta en dólares queda afuera y se avisa. Un PDF escaneado ahora dice que es una imagen y qué hacer, en vez de «No se reconoció el banco».",
+  "corrige_resultados": false
 }
