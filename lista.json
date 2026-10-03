@@ -1,8 +1,10 @@
 {
   "version": "1.1",
-  "actualizado": "2026-10-01",
+  "actualizado": "2026-10-03",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: dexiaesoporte@gmail.com",
-  "revocados": [],
+  "revocados": [
+    "abae4bd5264827262b1c3ab523aed91dfd03b7edde50b48eda1aa4e1e33d5003"
+  ],
   "motivos": {},
   "ultima_version": "2.8.0",
   "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.8.0/DEXIAE_Actualizacion_V2.8.0.exe",
