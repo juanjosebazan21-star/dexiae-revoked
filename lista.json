@@ -4,9 +4,9 @@
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: contacto@getdexiae.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.9.0",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.9.0/DEXIAE_Actualizacion_V2.9.0.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.9.0",
-  "resumen": "Llega «Novedades»: la renovación de tu licencia, plantillas, sets de reglas y la configuración de tus clientes te llegan solos a la campana, sin mails ni archivos para importar. Una licencia vencida o dada de baja pasa a sólo lectura. El Excel sale legible al abrirlo. Extractos avisa si un banco se leyó con muy pocas filas. Tu configuración tiene copia automática.",
+  "ultima_version": "2.9.1",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.9.1/DEXIAE_Actualizacion_V2.9.1.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.9.1",
+  "resumen": "Corrige un problema importante: al cerrar DEXIAE con la X, el programa quedaba abierto en segundo plano y, con el tiempo, ocupaba memoria y hacía más lenta la computadora. El instalador cierra solo los que quedaron abiertos. Trae además todo lo de la 2.9.0 (Novedades, sólo lectura al vencer, Excel legible, copia automática de la configuración).",
   "corrige_resultados": false
 }
