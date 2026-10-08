@@ -1,5 +1,15 @@
 {
  "formato": 1,
- "paquetes": [],
- "actualizado": "2026-10-07 14:25"
+ "paquetes": [
+  {
+   "formato": 1,
+   "id": "20261008132625-94cfc9",
+   "emitido": "2026-10-08",
+   "vence": "2026-12-07",
+   "para": "192266a74cf30117db26c7ab71f21d69d556b623cbb2e286b1d4b4c84e024b31",
+   "datos": "QDPs6MoRrKxPlnq1K01sBxLOywugDF0vYGe1OZk/qeokgxPXkuYgmQk+qfxOZKLk5OtGHCtsKXw31JqmwrAJNIFrRaLjMWuMA5Rob+d+/mxXFQYsGlBRFW5cqmsSyMQLX3q+RxptXjnai/IbVrwXdMWXRdzyoBaZehYGY7S3qVm8tzAhYadt9BmFgURsMIAzxMP2LCMIZnjnKVhMlxp2mxTWtljBma+xy6/jrABhE/WaEBJcJZimT5QALta7opLL8c1DP4l6vtF+T6Q6O+M=",
+   "firma": "HJAFHUAsiF4Dgf0AfRQDzrw/5bzp2Ea+tJFpTp24uYIskFAcmmTt8IDPQ0ah8s4Clw+FHYgDUdGvAsz83YYZDA=="
+  }
+ ],
+ "actualizado": "2026-10-08 13:26"
 }
