@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-27",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: contacto@getdexiae.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.10.0",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.10.0/DEXIAE_Actualizacion_V2.10.0.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.10.0",
-  "resumen": "Facturas por QR de Uruguay (DGI), y un QR que DEXIAE todavía no lee ya no se pierde. La hoja «Para importar» sale en el formato de tu sistema contable (Nacional Gestión, Colppy, Xubio o Holistor) y hay un informe para el cliente en PDF. Revisar dice dónde mirar y qué cambió al corregir. Nuevo menú «?» de Ayuda. Las conexiones van siempre con el certificado verificado y un texto «=…» leído de un documento nunca se ejecuta como fórmula en el Excel. Trae además los arreglos de fechas y escaneados de las versiones intermedias.",
+  "ultima_version": "2.10.1",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.10.1/DEXIAE_Actualizacion_V2.10.1.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.10.1",
+  "resumen": "Lee el resumen de ICBC con «Fecha contable» (de más nuevo a más viejo), también los importes «,99» y las páginas sin encabezado. Los importes con espacios adentro ya no se leen como otro número; Fusionar Reportes toma las hojas de datos y fusiona lo que muestra la lista; y un doble clic ya no arranca dos lotes ni dos «Generar Excel» de la revisión.",
   "corrige_resultados": true
 }
