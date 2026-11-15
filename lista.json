@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-15",
   "info_publica": "Lista de hashes SHA-256 de HWIDs con licencia DEXIAE revocada, y cual es la ultima version publicada. La aplicacion lee este archivo: no envia nada. Solo lectura. Para soporte: contacto@getdexiae.com",
   "revocados": [],
   "motivos": {},
-  "ultima_version": "2.10.2",
-  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.10.2/DEXIAE_Actualizacion_V2.10.2.exe",
-  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.10.2",
-  "resumen": "Lee los resúmenes de BBVA Francés (la primera cuenta; si otra trae movimientos, lo avisa) y Supervielle. En el Santander clásico, la cuenta en dólares se aparta con aviso y lo que sigue al cierre (impuestos, tarjetas) ya no entra. «Comisión» con tilde y «COM MANT» se reconocen como comisiones bancarias, y con la detección automática el Pre-Vuelo dice cuántos documentos van a cada plantilla.",
-  "corrige_resultados": true
+  "ultima_version": "2.10.3",
+  "descarga": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/download/v2.10.3/DEXIAE_Actualizacion_V2.10.3.exe",
+  "notas": "https://github.com/dexiaesoporte-create/dexiae-releases/releases/tag/v2.10.3",
+  "resumen": "Para las ediciones con asientos: el número de asiento puede seguir solo de un Excel al otro, podés ordenar las líneas con el Debe primero, y «Qué revisar» muestra lo que DEXIAE aprendió para olvidarlo si hace falta. Además completa el CUIT de los débitos automáticos del Banco del Chubut y reconoce cheques con las palabras pegadas.",
+  "corrige_resultados": false
 }
